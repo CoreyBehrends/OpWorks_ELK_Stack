@@ -1,3 +1,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = https://github.com/foxycoder/cookbook-elasticsearch.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/miketheman/nginx.git
